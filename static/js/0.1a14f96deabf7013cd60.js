@@ -1,0 +1,2 @@
+webpackJsonp([0],{msXN:function(n,t,e){"use strict";t.a={data:function(){return{}},methods:{speskGetTime:function(){var n=new Date,t=n.getHours(),e=n.getMinutes(),r=function(n){return n<10&&(n="0"+n),n};return n.getFullYear()+"-"+(n.getMonth()+1)+"-"+n.getDate()+" "+r(t)+":"+r(e)}},computed:{innerH:function(){return window.innerHeight-80+"px"},innerW:function(){return window.innerWidth-300}}}}});
+//# sourceMappingURL=0.1a14f96deabf7013cd60.js.map
